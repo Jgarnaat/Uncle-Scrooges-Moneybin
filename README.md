@@ -36,5 +36,5 @@ If you followed tutorials, include links to those here as well.
 
 github link https://github.com/Jgarnaat/Uncle-Scrooges-Moneybin
 
-video tutorial 
+video tutorial https://drive.google.com/file/d/1IfoVe6NM8zuM4O_6aZ29jzNNqNEUxCBm/view
 

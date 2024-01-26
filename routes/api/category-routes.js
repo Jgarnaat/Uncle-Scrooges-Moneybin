@@ -17,9 +17,10 @@ router.get('/', (req, res) => {
     ]
   })
   .then(categoryData => res.json(categoryData))
-  .catch(err);
+  .catch(err => {
   console.log(err);
   res.status(500).json(err);
+  });
 });
 
 router.get('/:id', (req, res) => {
